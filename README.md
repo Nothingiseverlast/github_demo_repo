@@ -1,3 +1,2 @@
-# github_demo_repo
-This is the repo for learning how to use Github
-The first README file I made! (for commit)
+# ReadMe
+This is the public repository to build the visualization code for LAMMPS trajectory.
